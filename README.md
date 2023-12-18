@@ -1,4 +1,6 @@
-### Hi, Icaro here :)
+### Hi, Icaro Almeida here!
+[<img src="https://img.shields.io/badge/nadiaaoliverr-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/icaroalmeidas/)
+[<img src="https://img.shields.io/badge/nadiaaoliverr@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" />](icaroalmeidas@hotmail.com)
 Brazilian, Production Enginner, bilingual🌎.
 - ☀ Graduated in electrical engineering with experience in photovoltaic energy and passionate about data.
 - 🎮 My hobbies are gaming and financial markets.
