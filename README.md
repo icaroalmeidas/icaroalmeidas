@@ -1,6 +1,7 @@
 ### Hi, Icaro Almeida here!
-[<img src="https://img.shields.io/badge/icaroalmeida-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/icaroalmeidas/)
+[<img src="https://img.shields.io/badge/icaroalmeidas-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/icaroalmeidas/)
 [<img src="https://img.shields.io/badge/icaroalmeidas@hotmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" />](icaroalmeidas@hotmail.com)
+
 Brazilian, Production Enginner, bilingual🌎.
 - ☀ Graduated in electrical engineering with experience in photovoltaic energy and passionate about data.
 - 🎮 My hobbies are gaming and financial markets.
@@ -9,6 +10,14 @@ Brazilian, Production Enginner, bilingual🌎.
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://img.icons8.com/?size=512&id=qYfwpsRXEcpc&format=png" />&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='50' height='50' src="https://img.icons8.com/?size=512&id=50051&format=png" />&nbsp;&nbsp;&nbsp;
+
+  ### :bulb: About me!
+
+**Data Analyst and Production Engineer with experience in team leadership, activity and time management. Fluent in English, I am passionate about learning, evolving, and communicating effectively. I have delivered over 2500 hours of training, sharing my knowledge and skills with teams and colleagues, fostering a collaborative environment and encouraging continuous learning.**
+
+**My expertise in data analysis, combined with strong verbal and nonverbal communication skills, enables me to lead teams, deliver high-quality solutions, and collaborate in global environments. I have a proven track record in managing people and activities, and I stay updated on the latest technology trends.**
+
+**I am seeking challenging opportunities in leading organizations where I can apply my skills, passion for results, and dedication to professional growth. I am open to new challenges and committed to making a mark in the field of data analysis and production engineering.**
 
 ##
 
