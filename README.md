@@ -5,13 +5,13 @@ Brazilian, Production Enginner, bilingual. Curious about the world 🌎.
 - 📚 Always studying and growth.
 - 🖥️ Currently focus in:
 <div style="display: inline">
-  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='50' height='50' src="https://img.icons8.com/?size=512&id=qYfwpsRXEcpc&format=png" />&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='50' height='50' src="https://img.icons8.com/?size=512&id=50051&format=png" />&nbsp;&nbsp;&nbsp;
 
 ##
 
 ### You can also find me at:
-&nbsp;<a href="https://www.linkedin.com/in/brunofcb/">
+&nbsp;<a href="https://www.linkedin.com/in/icaroalmeidas/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;
 
