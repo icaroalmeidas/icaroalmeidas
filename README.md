@@ -1,26 +1,22 @@
 ### Hi, Icaro Almeida here!
 [<img src="https://img.shields.io/badge/icaroalmeidas-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/icaroalmeidas/)
 
-Brazilian, Production Enginner, bilingual🌎.
-- ☀ Graduated in Production Engineering, data analyst with specialization in Management and Governance of Information Technology.
-- 🎮 My hobbies are Animes, Brazilian Jiu-Jitsu, games and spend time with my family. 
-- 📚 Always studying and growth.
-- 🖥️ Currently focus in:
+### **Brasileiro, Engenheiro de Produção, Bilingue**🌎.
+- ☀ Graduado em Engenharia de Produção, Analista de Dados, com especialização em Gestão e Governança da Tecnologia da Informação.
+- 🎮 Meus Hobbies são: Animes(Naruto, One Piece), Jiu-Jitsu brasileiro, Jogos e passar o tempo com a familia. 
+- 📚 Sempre estudando e crescendo.
+- 🖥️ Atualmente focado:
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://img.icons8.com/?size=512&id=qYfwpsRXEcpc&format=png" />&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='50' height='50' src="https://img.icons8.com/?size=512&id=50051&format=png" />&nbsp;&nbsp;&nbsp;
 
-  ### :bulb: About me!
+  ### :bulb: Sobre mim!
 
-**Data Analyst and Production Engineer with experience in team leadership, activity and time management. Fluent in English, I am passionate about learning, evolving, and communicating effectively. I have delivered over 2500 hours of training, sharing my knowledge and skills with teams and colleagues, fostering a collaborative environment and encouraging continuous learning.**
-
-**My expertise in data analysis, combined with strong verbal and nonverbal communication skills, enables me to lead teams, deliver high-quality solutions, and collaborate in global environments. I have a proven track record in managing people and activities, and I stay updated on the latest technology trends.**
-
-**I am seeking challenging opportunities in leading organizations where I can apply my skills, passion for results, and dedication to professional growth. I am open to new challenges and committed to making a mark in the field of data analysis and production engineering.**
+**Analista de Dados e Engenheiro de Produção com experiência em liderança de equipes, gerenciamento de atividades e tempo. Fluente em inglês, sou apaixonado por aprender, evoluir e comunicar de forma eficaz. Ministrei mais de 2500 horas/aula em treinamentos, transmitindo meu conhecimento e habilidades para equipes e colegas, fortalecendo o ambiente de colaboração e estimulando o aprendizado contínuo. Minha expertise em análise de dados combinada com habilidades em comunicação verbal e não verbal me permite liderar equipes, entregar soluções de alta qualidade e colaborar em ambientes globais. Tenho um histórico comprovado de gerenciamento de pessoas e atividades, e estou sempre atualizado com as últimas tendências em tecnologia. Busco oportunidades desafiadoras em organizações líderes, onde eu possa aplicar minhas habilidades, paixão pelos resultados e dedicação ao crescimento profissional. Estou aberto a novos desafios e comprometido em me destacar na área de análise de dados e engenharia de produção.**
 
 ##
 
-### Take a look on my profile and enjoy my conections:
+### Visite meu linkedin e aproveite minhas conexões.
 &nbsp;<a href="https://www.linkedin.com/in/icaroalmeidas/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;
