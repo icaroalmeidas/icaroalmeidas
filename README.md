@@ -1,6 +1,6 @@
 ### Hi, Icaro Almeida here!
 [<img src="https://img.shields.io/badge/icaroalmeidas-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/icaroalmeidas/)
-[<img src="https://img.shields.io/badge/icaroalmeidas@hotmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" />](icaroalmeidas@hotmail.com)
+[<img src="https://img.shields.io/badge/icaroalmeidas1990@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" />](mailto:icaroalmeidas1990@gmail.com)
 
 Brazilian, Production Enginner, bilingual🌎.
 - ☀ Graduated in Production Engineering, data analyst with specialization in Management and Governance of Information Technology.
