@@ -3,8 +3,8 @@
 [<img src="https://img.shields.io/badge/icaroalmeidas@hotmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" />](icaroalmeidas@hotmail.com)
 
 Brazilian, Production Enginner, bilingual🌎.
-- ☀ Graduated in electrical engineering with experience in photovoltaic energy and passionate about data.
-- 🎮 My hobbies are gaming and financial markets.
+- ☀ Graduated in Production Engineering, data analyst with specialization in Management and Governance of Information Technology.
+- 🎮 My hobbies are Animes, Brazilian Jiu-Jitsu, games and spend time with my family. 
 - 📚 Always studying and growth.
 - 🖥️ Currently focus in:
 <div style="display: inline">
