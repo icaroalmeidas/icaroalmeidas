@@ -10,13 +10,13 @@ Brazilian, Production Enginner, bilingual🌎.
 
 ##
 
-### You can also find me at:
+### You can also find me at. Take a look on my profile and enjoy my conections:
 &nbsp;<a href="https://www.linkedin.com/in/icaroalmeidas/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;
 
 
-#### Some projects I've worked on with Python:
+#### Some projects I've worked on Power BI:
 - <a href="https://github.com/BrunoFelipeCB/Dataset-iris/tree/main">
     Project with the dataset Iris. Using basic concepts of Pandas, Matplotlib and Machine Learn.
   </a>
