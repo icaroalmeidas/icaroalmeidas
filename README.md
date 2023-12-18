@@ -1,5 +1,5 @@
 ### Hi, Icaro here :)
-Brazilian, Production Enginner, bilingual. Curious about the world 🌎.
+Brazilian, Production Enginner, bilingual🌎.
 - ☀ Graduated in electrical engineering with experience in photovoltaic energy and passionate about data.
 - 🎮 My hobbies are gaming and financial markets.
 - 📚 Always studying and growth.
