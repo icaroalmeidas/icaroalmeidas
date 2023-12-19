@@ -1,7 +1,7 @@
 ### Hi, Icaro Almeida here!
 [<img src="https://img.shields.io/badge/icaroalmeidas-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/icaroalmeidas/)
 
-### **Brasileiro, Engenheiro de Produção, Bilingue**🌎.
+### **Brasileiro, Engenheiro de Produção, Bilingue**🌎
 - ☀ Graduado em Engenharia de Produção, Analista de Dados, com especialização em Gestão e Governança da Tecnologia da Informação.
 - 🎮 Meus Hobbies são: Animes(Naruto, One Piece), Jiu-Jitsu brasileiro, Jogos e passar o tempo com a familia. 
 - 📚 Sempre estudando e crescendo.
