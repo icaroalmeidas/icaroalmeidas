@@ -17,7 +17,7 @@
 ##
 
 ## Projetos em Power BI:
-- <a href="https://github.com/icaroalmeidas/Portfolio-BI.git">
+- <a href="https://github.com/icaroalmeidas/Dashboard-Leads">
     DashBoard - Aquisição de Leads
   </a>
 
