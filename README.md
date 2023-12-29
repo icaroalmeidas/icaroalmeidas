@@ -21,6 +21,10 @@
     DashBoard - Aquisição de Leads
   </a>
 
+- <a href="https://github.com/icaroalmeidas/DashVendas/tree/main">
+    DashBoard - Vendas
+  </a>
+
 ## Visite meu linkedin e aproveite minhas conexões.
 &nbsp;<a href="https://www.linkedin.com/in/icaroalmeidas/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
