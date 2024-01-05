@@ -27,12 +27,9 @@
 
 ## Projetos em Python:
   - <a href="https://github.com/icaroalmeidas/Python/tree/main">
-    DashBoard - Vendas
+    Análise de previsão de preços de carros
   </a>
 
-- <a href="https://github.com/icaroalmeidas/DashVendas/tree/main">
-    DashBoard - Vendas
-  </a>
 
 ## Visite meu linkedin e aproveite minhas conexões.
 &nbsp;<a href="https://www.linkedin.com/in/icaroalmeidas/">
