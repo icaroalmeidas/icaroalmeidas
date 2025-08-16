@@ -1,11 +1,11 @@
 ### Hi, Icaro Almeida here!
 [<img src="https://img.shields.io/badge/icaroalmeidas-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/icaroalmeidas/)
 
-### **Brasileiro, Engenheiro de Produção, Bilingue**🌎
+### **Analista de Dados, Engenheiro de Produção, Bilingue**🌎
 - ☀ Graduado em Engenharia de Produção, Analista de Dados, com especialização em Gestão e Governança da Tecnologia da Informação.
 - 🎮 Meus Hobbies são: Animes(Naruto, One Piece), Jiu-Jitsu brasileiro, Jogos e passar o tempo com a familia. 
 - 📚 Sempre estudando e crescendo.
-- 🖥️ Atualmente focado:
+- 🖥️ Atualmente aprendendo:
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='50' height='50' src="https://img.icons8.com/?size=512&id=qYfwpsRXEcpc&format=png" />&nbsp;&nbsp;&nbsp;
@@ -13,7 +13,10 @@
 
   ### :bulb: Sobre mim!
 
-**Analista de Dados e Engenheiro de Produção com experiência em liderança de equipes, gerenciamento de atividades e tempo. Fluente em inglês, sou apaixonado por aprender, evoluir e comunicar de forma eficaz. Ministrei mais de 2500 horas/aula em treinamentos, transmitindo meu conhecimento e habilidades para equipes e colegas, fortalecendo o ambiente de colaboração e estimulando o aprendizado contínuo. Minha expertise em análise de dados combinada com habilidades em comunicação verbal e não verbal me permite liderar equipes, entregar soluções de alta qualidade e colaborar em ambientes globais. Tenho um histórico comprovado de gerenciamento de pessoas e atividades, e estou sempre atualizado com as últimas tendências em tecnologia. Busco oportunidades desafiadoras em organizações líderes, onde eu possa aplicar minhas habilidades, paixão pelos resultados e dedicação ao crescimento profissional. Estou aberto a novos desafios e comprometido em me destacar na área de análise de dados e engenharia de produção.**
+Analista de Dados com sólida experiência em transformar dados em decisões estratégicas. Atuo de ponta a ponta, desde o ETL até a entrega final com foco em UX e automação via Power BI Service. Domino Power BI, DAX, SQL, Power Query e possuo conhecimento em Python e NoSQL. Unindo raciocínio analítico à comunicação clara, desenvolvo dashboards de vendas, marketing, NPS e RH com impacto direto nos resultados. Destaque para projeto que viabilizou a primeira exportação da empresa para os EUA via certificação HACCP. Professor universitário e ex-líder de equipes, levo a análise de dados com propósito, clareza e foco em usabilidade.
+Estou super empolgado com essa transição de carreira e pronta para encarar novos desafios no universo dos dados. Vamos conversar?
+
+📥 Me chama no WhatsApp: +5583991567574 ou manda um e-mail: icaroalmeidas@hotmail.com
 
 ##
 
