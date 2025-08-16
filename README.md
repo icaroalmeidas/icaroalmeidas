@@ -24,7 +24,7 @@ Estou super empolgado com essa transição de carreira e pronta para encarar nov
 
 ## Projetos em Excel:
   - <a href="https://github.com/icaroalmeidas/Sales-Analysis-Project-on-GlobalTech-Stores.git">
-    Análise de previsão de preços de carros
+    Sales Analysis Project on GlobalTech Stores
   </a>
 
 ## Projetos em Power BI:
