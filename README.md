@@ -21,7 +21,7 @@ Estou super empolgado com essa transição de carreira e pronta para encarar nov
 ##
 
 ## Projetos em Excel:
-  - <a href="https://github.com/icaroalmeidas/Python/tree/main">
+  - <a href="https://github.com/icaroalmeidas/Sales-Analysis-Project-on-GlobalTech-Stores.git">
     Análise de previsão de preços de carros
   </a>
 
