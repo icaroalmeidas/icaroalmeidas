@@ -1,5 +1,7 @@
-### Hi, Icaro Almeida here!
-[<img src="https://img.shields.io/badge/icaroalmeidas-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/icaroalmeidas/)
+### Olá, Eu sou Icaro Almeida.
+&nbsp;<a href="https://www.linkedin.com/in/icaroalmeidas/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>&nbsp;
 
 ### **Analista de Dados, Engenheiro de Produção, Bilingue**🌎
 - ☀ Graduado em Engenharia de Produção, Analista de Dados, com especialização em Gestão e Governança da Tecnologia da Informação.
