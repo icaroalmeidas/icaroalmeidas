@@ -20,6 +20,11 @@ Estou super empolgado com essa transição de carreira e pronta para encarar nov
 
 ##
 
+## Projetos em Excel:
+  - <a href="https://github.com/icaroalmeidas/Python/tree/main">
+    Análise de previsão de preços de carros
+  </a>
+
 ## Projetos em Power BI:
 - <a href="https://github.com/icaroalmeidas/Dashboard-Leads">
     DashBoard - Aquisição de Leads
@@ -33,6 +38,7 @@ Estou super empolgado com essa transição de carreira e pronta para encarar nov
   - <a href="https://github.com/icaroalmeidas/Python/tree/main">
     Análise de previsão de preços de carros
   </a>
+
 
 
 ## Visite meu linkedin e aproveite minhas conexões.
