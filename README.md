@@ -2,6 +2,9 @@
 &nbsp;<a href="https://www.linkedin.com/in/icaroalmeidas/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;
+- <a href="https://icaroalmeidas.my.canva.site/analistadedados">
+    PORTFÓLIO
+  </a>
 
 ### **Analista de Dados, Engenheiro de Produção, Bilingue**🌎
 - ☀ Graduado em Engenharia de Produção, Analista de Dados, com especialização em Gestão e Governança da Tecnologia da Informação.
